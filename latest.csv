@@ -1,4 +1,4 @@
 id,title,prompt,category,tags,image_url,model_hint,usage_notes,popularity,updated_at,nsfw
-p001,"YouTube Title Generator","Write 10 catchy titles about {{topic}}","Marketing","youtube;seo;title","https://raw.githubusercontent.com/<Softtex>/<your-repo>/main/img/p001.jpg","ChatGPT","Replace {{topic}} before copying",120,"2025-11-10T18:30:00Z",false
+p001,"Retrato editorial masculino premium","Write 10 catchy titles about {{topic}}","Marketing","youtube;seo;title","https://raw.githubusercontent.com/<Softtex>/<your-repo>/main/img/p001.jpg","ChatGPT","{{topic}} before copying",120,"2025-11-10T18:30:00Z",false
 p002,"App Icon Concepts","Generate 5 flat icon ideas for a {{app_type}} app","Design","icon;flat;material","https://raw.githubusercontent.com/<Softtex>/<your-repo>/main/img/p002.jpg","Midjourney","Aim for simple shapes",95,"2025-11-09T14:05:00Z",false
 p003,"Bug Reproducer","Help me reproduce a crash: {{steps}}","Code","android;debug;qa","https://raw.githubusercontent.com/<Softtex>/<your-repo>/main/img/p003.jpg","ChatGPT","Describe exact steps",60,"2025-11-08T10:00:00Z",false
